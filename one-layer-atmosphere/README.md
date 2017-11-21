@@ -1,6 +1,6 @@
 # One layer atmosphere
 
-
+![](https://github.com/rensa/climate-slides/blob/master/one-layer-atmosphere/thumb.png?raw=true)
 
 A (very) simple model of the Earth and the Sun.
 
